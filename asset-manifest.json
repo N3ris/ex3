@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/N3ris/ex3-firestore.git/static/css/main.1469173b.chunk.css",
-    "main.js": "/N3ris/ex3-firestore.git/static/js/main.aba55f73.chunk.js",
-    "main.js.map": "/N3ris/ex3-firestore.git/static/js/main.aba55f73.chunk.js.map",
-    "runtime-main.js": "/N3ris/ex3-firestore.git/static/js/runtime-main.916e3db8.js",
-    "runtime-main.js.map": "/N3ris/ex3-firestore.git/static/js/runtime-main.916e3db8.js.map",
-    "static/js/2.c1d0abcd.chunk.js": "/N3ris/ex3-firestore.git/static/js/2.c1d0abcd.chunk.js",
-    "static/js/2.c1d0abcd.chunk.js.map": "/N3ris/ex3-firestore.git/static/js/2.c1d0abcd.chunk.js.map",
-    "index.html": "/N3ris/ex3-firestore.git/index.html",
-    "static/css/main.1469173b.chunk.css.map": "/N3ris/ex3-firestore.git/static/css/main.1469173b.chunk.css.map",
-    "static/js/2.c1d0abcd.chunk.js.LICENSE.txt": "/N3ris/ex3-firestore.git/static/js/2.c1d0abcd.chunk.js.LICENSE.txt"
+    "main.css": "/ex3-firestore/static/css/main.1469173b.chunk.css",
+    "main.js": "/ex3-firestore/static/js/main.aba55f73.chunk.js",
+    "main.js.map": "/ex3-firestore/static/js/main.aba55f73.chunk.js.map",
+    "runtime-main.js": "/ex3-firestore/static/js/runtime-main.9505ad04.js",
+    "runtime-main.js.map": "/ex3-firestore/static/js/runtime-main.9505ad04.js.map",
+    "static/js/2.d83c900a.chunk.js": "/ex3-firestore/static/js/2.d83c900a.chunk.js",
+    "static/js/2.d83c900a.chunk.js.map": "/ex3-firestore/static/js/2.d83c900a.chunk.js.map",
+    "index.html": "/ex3-firestore/index.html",
+    "static/css/main.1469173b.chunk.css.map": "/ex3-firestore/static/css/main.1469173b.chunk.css.map",
+    "static/js/2.d83c900a.chunk.js.LICENSE.txt": "/ex3-firestore/static/js/2.d83c900a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.916e3db8.js",
-    "static/js/2.c1d0abcd.chunk.js",
+    "static/js/runtime-main.9505ad04.js",
+    "static/js/2.d83c900a.chunk.js",
     "static/css/main.1469173b.chunk.css",
     "static/js/main.aba55f73.chunk.js"
   ]
